@@ -1,0 +1,9 @@
+*.pth
+*.jpg
+*.png
+*.pyc
+__pycache__
+.idea
+!readmeDisplay/1.png
+checkpoint/IPCGANS/*
+checkpoint/pretrain_alexnet/saved_parameters/
